@@ -1,2 +1,9 @@
 # sigma-demo
 this is a demo for git and github classes.
+
+# Teacher
+yogesh gavali
+
+# Student
+sigma student
+
